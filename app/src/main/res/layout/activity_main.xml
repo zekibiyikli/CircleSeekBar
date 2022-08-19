@@ -15,4 +15,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
     
+    <com.zekibiyikli.circleseekbar.CircleSeekBar
+        android:layout_width=", "
+        android:layout_height=""
 </androidx.constraintlayout.widget.ConstraintLayout>
